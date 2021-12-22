@@ -96,3 +96,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br />
 
 </div>
+
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=alexandercrypto&theme=github&count_private=true" />
+
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+
+<a href="https://join.skype.com/invite/NHJuH9tCwZig">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:alexandercrypto73@gmail.com">
+    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
