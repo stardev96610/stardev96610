@@ -3,7 +3,7 @@
 
 
 
-### Glad to see you here!  
+## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
@@ -19,7 +19,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-## Skill set  
+## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -68,7 +68,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
+## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=boinik-dev.boinik-dev" />
 <img align="right" src="https://img.shields.io/github/followers/rafael731?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -78,7 +78,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
@@ -97,13 +97,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </div>
 
-<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=alexandercrypto&theme=github&count_private=true" />
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=rafael731&theme=github&count_private=true" />
 
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
-<a href="https://join.skype.com/invite/NHJuH9tCwZig">
+<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:alexandercrypto73@gmail.com">
+<a href="mailto:ryosha514@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
