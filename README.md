@@ -12,10 +12,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/BEufB8fsn5Fe"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+  <a href="https://join.skype.com/invite/wLxLlPeVi5aC"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
 
-<p align="center"><img align="center" src="https://github.com/rafael731/rafael731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" src="https://github.com/stardev96610/stardev96610/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <br/>  
 
@@ -101,9 +101,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
-<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
+<a href="https://join.skype.com/invite/wLxLlPeVi5aC">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:topdev731@gmail.com">
+<a href="mailto:stardev96610@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
