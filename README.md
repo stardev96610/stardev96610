@@ -73,10 +73,10 @@ Best Regards.
 
 ## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=boinik-dev.boinik-dev" />
-<img align="right" src="https://img.shields.io/github/followers/rafael731?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/stardev96610?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=rafael731&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael731&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=stardev96610&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardev96610&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> 
 
 <br/>  
